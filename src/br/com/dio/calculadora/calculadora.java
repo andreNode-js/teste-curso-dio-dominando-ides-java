@@ -41,5 +41,5 @@ public class calculadora {
 	}
 	public static float divisao(float x, float c) {
 		return x / c;
-	}
+	 }
 }
