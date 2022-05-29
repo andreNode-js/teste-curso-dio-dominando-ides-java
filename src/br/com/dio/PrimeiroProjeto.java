@@ -1,5 +1,6 @@
 package br.com.dio;
 
+import br.com.dio.calculadora.calculadora;
 import br.com.dio.model.Gato;
 
 public class PrimeiroProjeto {
@@ -8,6 +9,7 @@ public class PrimeiroProjeto {
 
 		Gato gato = new Gato();
 		Livros livros = new Livros();
+		calculadora Calc = new calculadora();
 
 		System.out.println(gato);
 		System.out.println(livros);
