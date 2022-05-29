@@ -9,10 +9,12 @@ public class PrimeiroProjeto {
 
 		Gato gato = new Gato();
 		Livros livros = new Livros();
-		calculadora Calc = new calculadora();
+		calculadora calc = new calculadora();
 
 		System.out.println(gato);
 		System.out.println(livros);
+		System.out.println(calc);
+		
 		
 		int a = 2;
 		int b = 3;
